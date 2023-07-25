@@ -6,8 +6,6 @@ import lombok.Getter;
 import org.lambarki.domain.valueobject.OrderStatus;
 
 import javax.validation.constraints.NotNull;
-import java.math.BigDecimal;
-import java.util.List;
 import java.util.UUID;
 
 @Getter
