@@ -3,6 +3,7 @@ package org.lambarki.domain.mapper;
 import org.lambarki.domain.dto.create.CreateOrderCommand;
 import org.lambarki.domain.dto.create.CreateOrderResponse;
 import org.lambarki.domain.dto.create.OrderAddress;
+import org.lambarki.domain.dto.track.TrackOrderResponse;
 import org.lambarki.domain.entity.Order;
 import org.lambarki.domain.entity.OrderItem;
 import org.lambarki.domain.entity.Product;
@@ -40,6 +41,14 @@ public class OrderDataMapper {
         return CreateOrderResponse.builder()
                 .orderTrackingId(order.getTrackingId().getValue())
                 .orderStatus(order.getOrderStatus())
+                .build();
+    }
+
+    public TrackOrderResponse orderToTrackOrderResponse(Order order) {
+        return TrackOrderResponse.builder()
+                .orderTrackingId(order.getTrackingId().getValue())
+                .orderStatus(order.getOrderStatus())
+                .failureMessages(order.getFailureMessages())
                 .build();
     }
 
