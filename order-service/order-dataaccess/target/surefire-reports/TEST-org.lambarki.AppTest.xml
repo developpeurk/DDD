@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.lambarki.AppTest" time="0.027" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\yassi\Downloads\axos-cqrs\food-ordering-system\order-service\order-dataaccess\target\test-classes;C:\Users\yassi\Downloads\axos-cqrs\food-ordering-system\order-service\order-dataaccess\target\classes;C:\Users\yassi\Downloads\axos-cqrs\food-ordering-system\order-service\order-domain\order-application-service\target\order-application-service-1.0-SNAPSHOT.jar;C:\Users\yassi\Downloads\axos-cqrs\food-ordering-system\order-service\order-domain\order-domain-core\target\order-domain-core-1.0-SNAPSHOT.jar;C:\Users\yassi\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\yassi\.m2\repository\org\hamcrest\hamcrest-core\2.2\hamcrest-core-2.2.jar;C:\Users\yassi\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Africa/Casablanca"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="MA"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17.0.4.1\bin"/>
+    <property name="sun.java.command" value="C:\Users\yassi\AppData\Local\Temp\surefire7608673655482867981\surefirebooter14219398019908880143.jar C:\Users\yassi\AppData\Local\Temp\surefire7608673655482867981 2023-07-24T10-55-03_966-jvmRun1 surefire18054522462241718409tmp surefire_3886885789372322029tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\yassi\Downloads\axos-cqrs\food-ordering-system\order-service\order-dataaccess\target\test-classes;C:\Users\yassi\Downloads\axos-cqrs\food-ordering-system\order-service\order-dataaccess\target\classes;C:\Users\yassi\Downloads\axos-cqrs\food-ordering-system\order-service\order-domain\order-application-service\target\order-application-service-1.0-SNAPSHOT.jar;C:\Users\yassi\Downloads\axos-cqrs\food-ordering-system\order-service\order-domain\order-domain-core\target\order-domain-core-1.0-SNAPSHOT.jar;C:\Users\yassi\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\yassi\.m2\repository\org\hamcrest\hamcrest-core\2.2\hamcrest-core-2.2.jar;C:\Users\yassi\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\yassi"/>
+    <property name="user.language" value="fr"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2022-08-18"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-17.0.4.1"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\yassi\Downloads\axos-cqrs\food-ordering-system\order-service\order-dataaccess"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\yassi\AppData\Local\Temp\surefire7608673655482867981\surefirebooter14219398019908880143.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.4.1+1-LTS-2"/>
+    <property name="user.name" value="yassi"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\yassi\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\yassi\AppData\Local\Temp\"/>
+    <property name="java.version" value="17.0.4.1"/>
+    <property name="user.dir" value="C:\Users\yassi\Downloads\axos-cqrs\food-ordering-system\order-service\order-dataaccess"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-17.0.4.1\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Java\jdk-17.0.4.1\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\apache-maven-3.8.4\bin;C:\Windows\system32;C:\Tools\nuget.exe;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\dotnet\;C:\Program Files\GitHub CLI\;C:\ProgramData\ComposerSetup\bin;C:\laragon\bin\php\php-8.1.10-Win32-vs16-x64;C:\ProgramData\chocolatey\bin;C:\Program Files\PuTTY\;C:\Tools\curl\bin;C:\MinGW\bin;C:\Program Files\CMake\bin;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Tools\terraform\tf;C:\HashiCorp\Vagrant\bin;C:\Program Files\Tesseract-OCR;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Users\yassi\AppData\Local\Programs\Python\Python38\Scripts\;C:\Users\yassi\AppData\Local\Programs\Python\Python38\;C:\laragon\bin;C:\laragon\bin\apache\httpd-2.4.54-win64-VS16\bin;C:\laragon\bin\composer;C:\laragon\bin\git\bin;C:\laragon\bin\git\cmd;C:\laragon\bin\git\mingw64\bin;C:\laragon\bin\git\usr\bin;C:\laragon\bin\laragon\utils;C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin;C:\laragon\bin\nginx\nginx-1.22.0;C:\laragon\bin\ngrok;C:\laragon\bin\nodejs\node-v18;C:\laragon\bin\notepad++;C:\laragon\bin\php\php7;C:\laragon\bin\python\python-3.10;C:\laragon\bin\python\python-3.10\Scripts;C:\laragon\bin\redis\redis-x64-5.0.14.1;C:\laragon\bin\telnet;C:\laragon\usr\bin;C:\Users\yassi\AppData\Local\Yarn\config\global\node_modules\.bin;C:\Users\yassi\AppData\Roaming\Composer\vendor\bin;C:\Users\yassi\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA 2022.2.1\bin;C:\Users\yassi\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\PhpStorm 2022.2.3\bin;C:\Users\yassi\AppData\Local\GitHubDesktop\bin;C:\Program Files\Oracle\VirtualBox;C:\Users\yassi\AppData\Roaming\npm;C:\Program Files\Graphviz\bin;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="17.0.4.1+1-LTS-2"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="testApp" classname="org.lambarki.AppTest" time="0.001"/>
+</testsuite>
