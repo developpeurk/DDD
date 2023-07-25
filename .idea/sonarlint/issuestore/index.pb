@@ -41,8 +41,6 @@ korder-service/order-domain/order-domain-core/src/main/java/org/lambarki/domain/
 rorder-service/order-domain/order-domain-core/src/main/java/org/lambarki/domain/exception/OrderDomainException.java,1\7\17ade8ad36a82746f71eda6e0c66c2417006d446
 }
 Mcommon/common-domain/src/main/java/org/lambarki/domain/valueobject/Money.java,3\f\3f91db462e78f16198ae0fb2609f0174c16de975
-ê
-`order-service/order-domain/order-domain-core/src/main/java/org/lambarki/domain/entity/Order.java,c\4\c4ef3f699134d685da1e68ed46510ab7ede0bcdc
 ï
 eorder-service/order-domain/order-domain-core/src/main/java/org/lambarki/domain/entity/Restaurant.java,f\d\fd141ae190d94b33f5e0686fb05b1fe12d3a0645
 ì

@@ -41,8 +41,6 @@ Ucommon/common-domain/src/main/java/org/lambarki/domain/exception/DomainExceptio
 rorder-service/order-domain/order-domain-core/src/main/java/org/lambarki/domain/exception/OrderDomainException.java,1\7\17ade8ad36a82746f71eda6e0c66c2417006d446
 }
 Mcommon/common-domain/src/main/java/org/lambarki/domain/valueobject/Money.java,3\f\3f91db462e78f16198ae0fb2609f0174c16de975
-ê
-`order-service/order-domain/order-domain-core/src/main/java/org/lambarki/domain/entity/Order.java,c\4\c4ef3f699134d685da1e68ed46510ab7ede0bcdc
 ì
 corder-service/order-domain/order-domain-core/src/main/java/org/lambarki/domain/entity/Customer.java,b\c\bc139900707f4b4323b8646f77e545bf3c9f357e
 ï
